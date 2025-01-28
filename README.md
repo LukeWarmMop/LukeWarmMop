@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @LukeWarmMop
 - 👀 I’m interested in gaming and coding, specifically HTML and CSS
-- 🌱 I’m currently learning HTML, CSS, Javascript and Python OOP
-- 💞️ I’m looking to collaborate on HTML projects
+- 🌱 I’m currently learning a wide range of languages 
 - 📫 How to reach me nawrockidawidwf@gmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: Im Polish
 
 <!---
