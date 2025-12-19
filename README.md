@@ -1,4 +1,4 @@
-Heyo! Im Mop, Aspiring Game Dev tryna learn as much as possible!
+Heyo! Im Tachyon!, Aspiring Game Dev tryna learn as much as possible!
 
 <!---
 LukeWarmMop/LukeWarmMop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
